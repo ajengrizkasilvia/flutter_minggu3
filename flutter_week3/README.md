@@ -1,6 +1,6 @@
 # flutter_week3
-[.Plot](./image/gb1.png)
-[.Plot](./image/gb2.png)
+![.Plot](./image/gb1.png)
+![.Plot](./image/gb2.png)
 A new Flutter project.
 
 ## Getting Started
